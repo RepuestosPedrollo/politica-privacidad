@@ -1,1 +1,1 @@
-# politica-privacidad
+Política de Privacidad – Identificador Repuestos: Esta aplicación es una herramienta corporativa de consulta interna. Únicamente solicita credenciales de acceso (usuario y contraseña) previamente asignadas por el administrador para validar la identidad del colaborador. No recopilamos datos personales con fines comerciales, no mostramos publicidad ni compartimos información con terceros.
